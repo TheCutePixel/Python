@@ -2,3 +2,5 @@ print('hello')
 a = 8
 b = 9
 c = a*b
+d=4+4
+e=5*3
